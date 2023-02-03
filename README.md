@@ -6,4 +6,4 @@ Assignment1/n
      -  **Features**.              Feature set extracted from training dataset as input.
      -  **Test_data**              Feature set extracted from test dataset (CIFAR-10)
 2.  [Assignment_Amended_dlcv.ipynb] (https://colab.research.google.com/drive/1o2rlSJY05Q9k8K3SRJV1BBg4Z-t75adG?usp=share_link)
-3.  
+3.  Augument
