@@ -5,5 +5,8 @@ Assignment1/n
      -  **Augumented Dataset**.    Augumented dataset as per requirement to question 3
      -  **Features**.              Feature set extracted from training dataset as input.
      -  **Test_data**              Feature set extracted from test dataset (CIFAR-10)
-2.  [Assignment_Amended_dlcv.ipynb] (https://colab.research.google.com/drive/1o2rlSJY05Q9k8K3SRJV1BBg4Z-t75adG?usp=share_link)
-3.  Augument
+2.  **Assignment_Amended_dlcv**.   Solution to assignment
+3.  **Unaugmented weights**.       weight files of the trained model for unaugmented dataset.
+4.  **Augmented weights**.       weight files of the trained model for augmented dataset. 
+5.  **Performance Sheet**         Performance of four classifiers and MLP model.
+6.  **Report**.                    Detailed report on incorporating MLP model. 
