@@ -6,7 +6,6 @@ Assignment1/n
      -  **Features**.              Feature set extracted from training dataset as input.
      -  **Test_data**              Feature set extracted from test dataset (CIFAR-10)
 2.  **Assignment_Amended_dlcv**.   Solution to assignment
-3.  **Unaugmented weights**.       weight files of the trained model for unaugmented dataset.
-4.  **Augmented weights**.       weight files of the trained model for augmented dataset. 
-5.  **Performance Sheet**         Performance of four classifiers and MLP model.
-6.  **Report**.                    Detailed report on incorporating MLP model. 
+3.  **Final weights**.             weight files of the trained model for unaugmented dataset and augmented dataset. 
+4.  **Performance Sheet**          Performance of four classifiers and MLP model.
+5.  **Report**.                    Detailed report on incorporating MLP model. 
